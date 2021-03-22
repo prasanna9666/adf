@@ -177,7 +177,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/anjaneyulureddy216_gmail.com#ext#@anjaneyulureddy216gmail.onmicrosoft.com/Pop vs. Price SQL"
+					"notebookPath": ""
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
